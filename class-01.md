@@ -53,7 +53,6 @@ The <meta> tag allows you to supply all kinds of information about your web page
 Escape characters are used to incloude special characters in your pages like <,>
 
 
-
 # HTML5 
 
 1. The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure 
@@ -89,11 +88,11 @@ Escape characters are used to incloude special characters in your pages like <,>
 You can use JavaScript to select any
 element, attribute, or text from an
 HTML page. For example:
-• Select the text inside all of the <hl>
+Select the text inside all of the <hl>
 elements on a page
-• Select any elements that have a
+Select any elements that have a
 c 1 ass attribute with a value of note
-• Find out what was entered into a
+Find out what was entered into a
 text input whose id attribute has a
 value of emai1
 
@@ -103,12 +102,12 @@ value of emai1
 You can use JavaScript to add
 elements, attributes, and text to the
 page, or remove them. For example:
-• Add a paragraph of text after the
+Add a paragraph of text after the
 first <hl> element
-• Change the value of c 1 ass
+Change the value of c 1 ass
 attributes to trigger new CSS rules
 for those elements
-• Change the size or position of an
+Change the size or position of an
 <i mg> element
 
 
@@ -117,13 +116,13 @@ You can specify a set of steps for
 the browser to follow (like a recipe),
 which allows it to access or change the
 content of a page. For example:
-• A gallery script could check which
+A gallery script could check which
 image a user clicked on and display
 a larger version of that image.
-• A mortgage calculator could collect
+A mortgage calculator could collect
 values from a fo rm, perform a
 ca lculation, and display repayments.
-• An animation could check the
+An animation could check the
 dimensions of the browser window
 and move an image to the bottom
 of the viewable area (also known as
@@ -133,12 +132,12 @@ the viewport).
 You can specify that a script should run
 when a specific event has occurred. For
 example, it could be run when:
-• A button is pressed
-• A link is clicked (or tapped) on
-• A cursor hovers over an element
-• Information is added to a form
-• An interval of time has passed
-• A web page has finished loading
+A button is pressed
+A link is clicked (or tapped) on
+A cursor hovers over an element
+Information is added to a form
+An interval of time has passed
+A web page has finished loading
 
 
 ## What is a script 
