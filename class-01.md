@@ -8,8 +8,7 @@
 
 # HTML
 
-**HTML is to structure the content in almost every web page**
-the main parts in html tags
+**HTML is to structure the content in almost every web page the main parts in html tags**
 
 ```
 <head>
@@ -21,36 +20,20 @@ the main parts in html tags
         <footer>
 ```
 
-HTML p  ages are text documents.
- HTML uses tags (characters that sit inside angled
-brackets) to give the information they surround special
-meaning.
- Tags are often referred to as elements.
- Tags usually come in pairs. The opening tag denotes
-the start of a piece of content; the closing tag denotes
-the end.
- Opening tags can carry attributes, which tell us more
-about the content of that element.
- Attributes require a name and a value.
- To learn HTML you need to know what tags are
-available for you to use, what they do, and where they
-can go.
+HTML p  ages are text documents. HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.Tags are often referred to as elements. Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end. Opening tags can carry attributes, which tell us more about the content of that element. Attributes require a name and a value. To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
 
 # Extra Markup
 
-DOCTYPE tell browsers which version of HTML you are using 
+DOCTYPE tell browsers which version of HTML you are using YOu can add comments to your code like  <!-- this --> 
+The id and class attributes allow you to identify particular elements  
 
-YOu can add comments to your code like  <!-- this -->
+The <div> and <span> elements allow you to group block-level and inline elements together  
 
-The id and class attributes allow you to identify particular elements 
+<iframs> cut windows into your web page through which other pages can be displayed  
 
-The <div> and <span> elements allow you to group block-level and inline elements together 
+The <meta> tag allows you to supply all kinds of information about your web page  
 
-<iframs> cut windows into your web page through which other pages can be displayed 
-
-The <meta> tag allows you to supply all kinds of information about your web page
-
-Escape characters are used to incloude special characters in your pages like <,>
+Escape characters are used to incloude special characters in your pages like <,>  
 
 
 
@@ -68,79 +51,45 @@ Escape characters are used to incloude special characters in your pages like <,>
 
 # Designing your web page 
 
-1. it's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return 
+1. it's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return   
 
-2. Site maps allow you to plan the structure of a site 
+2. Site maps allow you to plan the structure of a site  
 
-3. Wirefrmes allow you to organize the information that will need to go on each page 
+3. Wirefrmes allow you to organize the information that will need to go on each page  
 
-4. Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them 
+4. Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them   
 
-5. You can differentiate between pieces of information using size, color, and style
+5. You can differentiate between pieces of information using size, color, and style  
 
-6. You can use grouping and similarity to help simplify the information you present 
+6. You can use grouping and similarity to help simplify the information you present  
 
 
-
+  
 
 # JavaScript 
 
-1. ACCESS CONTENT
-You can use JavaScript to select any
-element, attribute, or text from an
+1. ACCESS CONTENT You can use JavaScript to select any element, attribute, or text from an
 HTML page. For example:
-• Select the text inside all of the <hl>
-elements on a page
-• Select any elements that have a
-c 1 ass attribute with a value of note
-• Find out what was entered into a
-text input whose id attribute has a
-value of emai1
+Select the text inside all of the <hl> elements on a page Select any elements that have a c1ass attribute with a value of note Find out what was entered into a text input whose id attribute has a value of emai1
 
-
-
-2. MODIFY CONTENT
-You can use JavaScript to add
-elements, attributes, and text to the
+2. MODIFY CONTENT You can use JavaScript to add elements, attributes, and text to the
 page, or remove them. For example:
-• Add a paragraph of text after the
-first <hl> element
-• Change the value of c 1 ass
-attributes to trigger new CSS rules
-for those elements
-• Change the size or position of an
-<i mg> element
+Add a paragraph of text after the first <hl> element Change the value of c1ass attributes to trigger new CSS rules for those elements Change the size or position of an <i mg> element
 
-
-3. PROGRAM RULES
-You can specify a set of steps for
-the browser to follow (like a recipe),
-which allows it to access or change the
+3. PROGRAM RULES You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the
 content of a page. For example:
-• A gallery script could check which
-image a user clicked on and display
-a larger version of that image.
-• A mortgage calculator could collect
-values from a fo rm, perform a
-ca lculation, and display repayments.
-• An animation could check the
-dimensions of the browser window
-and move an image to the bottom
-of the viewable area (also known as
-the viewport).
+A gallery script could check which image a user clicked on and display a larger version of that image. A mortgage calculator could collect values from a fo rm, perform a calculation, and display repayments. An animation could check the dimensions of the browser window and move an image to the bottom of the viewable area (also known as the viewport).
 
-4. REACT TO EVENTS
-You can specify that a script should run
-when a specific event has occurred. For
+4. REACT TO EVENTS You can specify that a script should run when a specific event has occurred. For
 example, it could be run when:
-• A button is pressed
-• A link is clicked (or tapped) on
-• A cursor hovers over an element
-• Information is added to a form
-• An interval of time has passed
-• A web page has finished loading
+A button is pressed
+A link is clicked (or tapped) on
+A cursor hovers over an element
+Information is added to a form
+An interval of time has passed
+A web page has finished loading
 
-
+  
 ## What is a script 
 
 1. A script is a series of instructions that the computer can follow in oder to achieve goals
@@ -148,7 +97,7 @@ example, it could be run when:
 3. Computers aooroach tasks in a different way than humans, so your instructions must let the computer solve the task programmatically 
 4. To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task
 
-
+   
 JavaScript contain many things 
 1. Objects
 2. Event
@@ -156,7 +105,7 @@ JavaScript contain many things
 4. Parameters
 5. attributes 
 
-
+  
 
 # What I learned about Javascripts
 
@@ -167,7 +116,7 @@ JavaScript contain many things
 5. *script is a series of instructions that the computers follow in order to do specific task we wrote* 
 
 
- 
+   
 
 
 
