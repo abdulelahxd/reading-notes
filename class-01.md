@@ -36,7 +36,6 @@ The <meta> tag allows you to supply all kinds of information about your web page
 Escape characters are used to incloude special characters in your pages like <,>  
 
 
-
 # HTML5 
 
 1. The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure 
@@ -114,16 +113,3 @@ JavaScript contain many things
 3. *it is best to keep javaScript code in its own file .js*
 4. *viewing the source javascript code of the page won't appear on browsers like html*
 5. *script is a series of instructions that the computers follow in order to do specific task we wrote* 
-
-
-   
-
-
-
-
-
-
-
-
-
-
