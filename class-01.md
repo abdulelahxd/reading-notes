@@ -8,8 +8,8 @@
 
 # HTML
 
-**HTML is to structure the content in almost every web page**
-the main parts in html tags
+**HTML is to structure the content in almost every web page
+the main parts in html tags**
 
 ```
 <head>
