@@ -9,7 +9,7 @@
 
 Read#  |  Link
 --------- | ---------
-Read 1     | [link](https://abdulelahxd.github.io/reading-notes/class-01)
+Read 1     | [link](https://abdulelahxd.github.io/reading-notes/class-01/)
 Read 2     | [link]()
 Read 3     | [link]()
 Read 4     | [link]()
