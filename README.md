@@ -1,4 +1,4 @@
-# [Code 201 Reading Notes](https://github.com/abdulelahxd/reading-notes)
+# [Code 201 Reading Notes](https://abdulelahxd.github.io/reading-notes)
 
 **this site is for my all tasks for 201 course**
 
@@ -11,7 +11,7 @@ Read#  |  Link
 --------- | ---------
 Read 1     | [link](https://abdulelahxd.github.io/reading-notes/class-01)
 Read 2     | [link](https://abdulelahxd.github.io/reading-notes/class-02)
-Read 3     | [link]()
+Read 3     | [link](https://abdulelahxd.github.io/reading-notes/class-03)
 Read 4     | [link]()
 Read 5     | [link]()
 Read 6     | [link]()
