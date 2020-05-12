@@ -12,7 +12,7 @@ Read#  |  Link
 Read 1     | [link](https://abdulelahxd.github.io/reading-notes/class-01)
 Read 2     | [link](https://abdulelahxd.github.io/reading-notes/class-02)
 Read 3     | [link](https://abdulelahxd.github.io/reading-notes/class-03)
-Read 4     | [link]()
+Read 4     | [link](https://abdulelahxd.github.io/reading-notes/class-04)
 Read 5     | [link]()
 Read 6     | [link]()
 Read 7     | [link]()
