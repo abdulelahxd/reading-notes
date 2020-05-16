@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>movies</title>
+    <style>
+        body {
+            background-color: #f5f5f5;
+            color: grey;
+        }
+
+        #Qone {
+            background-color: lightskyblue;
+            text-align: center;
+            color: rgb(116, 116, 223);
+            font-size: 45px;
+        }
+        h1 {
+            background-color: lightskyblue;
+            text-align: center;
+            color: rgb(116, 116, 223);
+        }
+        
+        #Qtwo {
+            background-color: lightskyblue;
+            text-align: center;
+            color: rgb(48, 156, 199);
+            font-size: 42px;
+        }
+
+        #Qthree {
+            background-color: lightskyblue;
+            text-align: center;
+            color: rgb(214, 191, 90);
+            font-size: 38px;
+        }
+
+        #Qfour {
+            background-color: lightskyblue;
+            text-align: center;
+            color: rgb(214, 84, 84);
+            font-size: 34px;
+        }
+
+        #class1 {
+            color: black;
+            background-color: unset;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+
+    </header>
+
+    <main>
+        <h1 id="class1">
+            Class 1 Lab
+        </h1>
+
+        <p id="Qone">
+            
+        </p>
+        <p id="Qtwo">
+
+        </p>
+        <p id="Qthree">
+
+        </p>
+        <p id="Qfour">
+
+        </p>
+    </main>
+
+    <footer>
+
+    </footer>
+
+    <script>
+        'use strict';
+
+        // first question
+
+        var userName = prompt('what is your name?');
+        alert('welcome to my website ' + userName);
+        // document.write('<h1>' + 'welcome to my website ' + userName + '</h1>');
+        document.getElementById("Qone").innerHTML = ' welcome to my website ' + userName;
+        console.log(userName);
+
+        // second question 
+
+        var category = prompt('which category of movies and series you like to watch?');
+        alert('I think I\'m in love in ' + category + ' we are going to upload movies and series like this soon');
+        // document.write('<h2>' + 'I think I\'m in love in ' + category + ' we are going to upload movies and series like this soon' + '</h2>');
+        document.getElementById("Qtwo").innerHTML = 'I think I\'m in love with ' + category + ' we are going to upload movies and series like this soon';
+        console.log(category);
+
+        // third question 
+
+        var movie = prompt('what was the last movie did you watch?');
+        alert('wow I think this ' + movie + ' is awesome');
+        // document.write('<h3>' + 'wow I think this ' + movie + ' is awesome' + '</h3>');
+        document.getElementById("Qthree").innerHTML = 'wow I think this ' + movie + ' is awesome';
+        console.log(movie);
+
+        // fourth question
+
+        var place = prompt('what is your bast place to watch movies and series');
+        alert('well I think ' + place + ' is a good place');
+        // document.write('<h4>' + 'well I think ' + place + ' is a good place' + '</h4>');
+        document.getElementById("Qfour").innerHTML = 'well I think ' + place + ' is a good place';
+        console.log(place);
+        // I know how to use getElementById I will use it later
+    </script>
+</body>
+
+</html>
