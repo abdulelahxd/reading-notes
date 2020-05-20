@@ -19,14 +19,14 @@ to your site.
 3.  Submitting Forms
 
 4.  Uploading Files
-```
-<form>
+
+>```<form>```
 Form controls live inside a
-<form> element. This element
+```<form> ```element. This element
 should always carry the action
 attribute and will usually have a
 method and id attribute too.
-```  
+
   
 1. action Every ```<form>``` element requires an action attribute. Its value is the URL for the page on the server that will receive the information in the form when it is submitted.
 
