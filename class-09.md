@@ -26,8 +26,8 @@ Form controls live inside a
 should always carry the action
 attribute and will usually have a
 method and id attribute too.
-
-
+```
+```
 1. action Every <form> element requires an action attribute. Its value is the URL for the page on the server that will receive the information in the form when it is submitted.
 
 2. method Forms can be sent using one of two methods: get or post.
