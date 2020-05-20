@@ -27,13 +27,13 @@ should always carry the action
 attribute and will usually have a
 method and id attribute too.
 ```
-```
-1. action Every <form> element requires an action attribute. Its value is the URL for the page on the server that will receive the information in the form when it is submitted.
+
+1. action Every ```<form>``` element requires an action attribute. Its value is the URL for the page on the server that will receive the information in the form when it is submitted.
 
 2. method Forms can be sent using one of two methods: get or post.
 With the get method, the values from the form are added to the end of the URL specified in the action attribute. The get method is ideal for:
 short forms (such as search boxes)  when you are just retrieving data from the web server (not sending information that should be added to or deleted from a database)
-3. <input> The <input> element is used to create several different form
+3.``` <input> ```The ```<input> ```element is used to create several different form
 controls. The value of the type attribute determines what kind of input they will be creating.
 4. type="text" When the type attribute has a
 value of text, it creates a singleline
@@ -48,7 +48,6 @@ they enter to the server.
 of characters a user may enter into the text field. Its value is the
 number of characters they may enter. For example, if you were
 asking for a year, the maxlength attribute could have a value of 4.
-```
 
 # Table
 width to set the width of the
