@@ -8,7 +8,7 @@ It is often referred to as “logic-less” because there are no if statements, 
 mustache.js is an implementation of the mustache template system in JavaScript. It is often considered the base for JavaScript templating. And, since mustache supports various languages, we don’t need a separate templating system on the server side.
 
 
-![](img/justify-content.svg)
+![tiitiiejieed](img/justify-content.svg)
 ## flex
 This defines a flex container; inline or block depending on the given value. It enables a flex context for all its direct children.
 there so many cool stuff to do with the flex property
